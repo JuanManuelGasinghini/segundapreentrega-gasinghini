@@ -171,7 +171,7 @@ alert(ingresados);
 */
 
 //actividad
-
+/*
 let entrada = prompt("seleccionar producto de 1 a 4");
 while (entrada != 'ESC') {
     switch (entrada) {
@@ -192,4 +192,4 @@ while (entrada != 'ESC') {
                         break;
     }
     entrada =prompt("SELECCIONAR PRODUCTO DE 1 A 4");
-}
+} */
