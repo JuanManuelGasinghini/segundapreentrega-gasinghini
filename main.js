@@ -23,7 +23,7 @@ function correr(){
                   case "camisa":
                     precio = 4000;
                     break;
-                  case "pantalon":
+                  case "medias":
                     precio = 5600;
                     break;
                     case "medias":

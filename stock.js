@@ -1,6 +1,6 @@
 const productos = [
-    { id: 1, nombre: "Zapatillas", precio: 5000 },
-    { id: 2, nombre: "Camisa", precio: 1800 },
-    { id: 3, nombre: "Pantalón", precio: 2000 },
-    { id: 4, nombre: "Campera", precio: 7300 }
+    { id: 1, nombre: "remera", precio: 1000 },
+    { id: 2, nombre: "Camisa", precio: 4000 },
+    { id: 3, nombre: "medias", precio: 600 },
+    { id: 4, nombre: "Campera", precio: 9000 }
   ];
