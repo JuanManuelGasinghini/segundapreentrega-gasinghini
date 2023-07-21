@@ -6,3 +6,21 @@
 	border: none;
 	outline: none;
 }
+.button {
+    padding: 10%;
+    margin: 15%;
+    background-color: blue;
+    color:white;
+    border: 2px solid;
+    font-size: 1rem;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    padding: 10%;
+    margin: 15%;
+    font-size: 1.5rem;
+    background-color: orange;
+    color: black;
+    border: 2px solid;
+}
